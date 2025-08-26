@@ -5,7 +5,7 @@ This project is a **static responsive website** built with **HTML & CSS**, repli
 ---
 ## 🔗 Live Demo & GitHub  
 - 🚀 [Live Demo](https://awaistabaruk.github.io/Eduford-uni-web/) *(Click to view project in browser)*
-- 
+
 ---
 ## 🚀 Features  
 - 🎨 **Modern UI** – Clean layout with elegant fonts, colors, and spacing  
@@ -22,8 +22,7 @@ This project is a **static responsive website** built with **HTML & CSS**, repli
 ---
 
 ## 📌 Learning Outcomes  
-This project helped me strengthen my knowledge of:  
-- Responsive Web Design (Media Queries, Flexbox, Grid)  
+This project helped me strengthen my knowledge of:    
 - Designing clean and structured **HTML & CSS code**  
 - Creating **reusable UI components** (buttons, banners, sections)  
 - Building a **multi-page layout** website  
